@@ -1,4 +1,4 @@
-14406
+14386
 113C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\mocha\node_modules\minimatch\dist\esm\index.js.map133959549113359069 0
 60C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\.gitignore133960136745256629 0
 70C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\starter\data\data.js133959092524112688 0
@@ -14,7 +14,7 @@
 113C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\cjs\internal\operators\bufferWhen.js.map133960000625938501 0
 78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\fast-deep-equal133959414421878031 1
 67C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\starter\README.md133959092524092622 0
-54C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist133959493128993547 1
+54C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist133960306216063257 1
 81C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\async\anySeries.js133960000599418902 0
 100C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\pullAllWith.d.ts133960000616085143 0
 110C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\cjs\internal\operators\toArray.js.map133960000640866375 0
@@ -40,7 +40,7 @@
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lightningcss\README.md133959489599239430 0
 87C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\dunder-proto\test\get.js133960000592502728 0
 84C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\glob\dist\esm\glob.js133959549106012643 0
-67C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress.config.js133960016262987773 0
+67C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress.config.js133960289398648428 0
 95C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\esquery\dist\esquery.lite.min.js133959414426395572 0
 110C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\esm5\internal\util\isArrayLike.js.map133960000630300302 0
 88C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@swc\helpers\cjs\_set.cjs133959489607002680 0
@@ -56,7 +56,7 @@
 90C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\ordered-binary\package.json133959489598171521 0
 114C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@swc\helpers\src\_class_private_field_loose_key.mjs133959489623867297 0
 74C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\ajv\scripts133959414433574271 1
-57C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress133960018410919373 1
+57C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress133960205723981276 1
 82C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\through\test\end.js133960000599436327 0
 103C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\types\internal\Observable.d.ts133960000652823549 0
 79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\vinyl-fs\lib\src133959517843944064 1
@@ -110,7 +110,7 @@
 119C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133959489603316046 0
 110C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\esm\internal\operators\isEmpty.js.map133960000630466805 0
 96C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\asynckit\lib\readable_parallel.js133960000602909263 0
-62C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\package.json133960001985672039 0
+62C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\package.json133960272408599037 0
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\fp\wrapperAt.js133960000625927559 0
 96C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\fp\drop.d.ts133960000623318146 0
 83C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\postcss-value-parser133959489596950848 1
@@ -321,7 +321,7 @@
 120C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest5.c133959489607525604 0
 105C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\esm5\internal\observable\from.js133960000613883814 0
 80C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\initial.js133960000618844416 0
-74C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\starter\src\aboutPage.js133959092524475655 0
+74C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\starter\src\aboutPage.js133960306103933679 0
 103C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\fp\reduceRight.d.ts133960000622050860 0
 114C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\mocha\node_modules\yargs\lib\platform-shims\esm.mjs133959549114282027 0
 80C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@msgpackr-extract133960001985620199 1
@@ -429,7 +429,7 @@
 115C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\cjs\internal\scheduled\scheduleIterable.js133960000620137238 0
 67C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\once133959517839794515 1
 98C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\uri-js\dist\esnext\schemes\https.js133959414416269660 0
-87C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\starter\src\utilityRenderFunctions.js133959430196481954 0
+87C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\starter\src\utilityRenderFunctions.js133960306214722909 0
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\word-wrap\package.json133959414415048213 0
 105C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\fp\extendAllWith.d.ts133960000620725972 0
 94C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\es-define-property\CHANGELOG.md133960000595555727 0
@@ -1006,7 +1006,7 @@
 104C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\cjs\internal\BehaviorSubject.js133960000608642896 0
 127C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\cjs\internal\scheduler\performanceTimestampProvider.js133960000618378491 0
 72C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\he\bin\he133959549106611209 0
-75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.ab49845f.css133959491416745704 0
+75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.ab49845f.css133960306124528507 0
 70C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\deep-is133959414420381788 1
 92C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\workerpool\dist\worker.js.map133959549110427963 0
 90C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@cypress\request\lib\har.js133960000601084190 0
@@ -1186,7 +1186,6 @@
 84C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\bluebird\package.json133960000597333504 0
 84C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\yargs\locales\nn.json133959517103760719 0
 109C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\types\internal\Notification.d.ts.map133960000632628996 0
-98C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\connectors.cy.js133960018411287880 0
 93C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\type-fest\ts41\camel-case.d.ts133959489597272451 0
 111C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\esm\internal\operators\mergeMap.js.map133960000632028104 0
 71C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\isobject133959517098363626 1
@@ -1223,7 +1222,7 @@
 73C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\executable133960000599528133 1
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\dayjs\esm\locale\eu.js133960000609626749 0
 131C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\cjs\internal\scheduler\performanceTimestampProvider.js.map133960000633713916 0
-79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.ab49845f.css.map133959491417118856 0
+79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.ab49845f.css.map133960306126148311 0
 94C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\caniuse-lite\data\regions\SM.js133959489632088496 0
 90C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\src\internal\config.ts133960000648145946 0
 84C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\global-prefix\LICENSE133959517100784756 0
@@ -1731,7 +1730,6 @@
 79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\deburr.js133960000616109468 0
 71C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\minimist133960000603583477 1
 80C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\value-or-function133959517840479562 1
-81C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples133960018411298641 1
 71C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\minipass133959549110133149 1
 104C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\caniuse-lite\data\features\css3-colors.js133959489621110824 0
 89C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\undici-types\handlers.d.ts133960000602604702 0
@@ -2885,7 +2883,7 @@
 81C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\uuid\dist\parse.js133960000601412302 0
 87C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\loupe\lib\error.d.ts.map133959549111113767 0
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\undertaker\lib\helpers133959517843597918 1
-75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.99699bbc.css133959493128685388 0
+75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.99699bbc.css133960301226014758 0
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\common-tags\lib\source133960000607462978 1
 90C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\strip-final-newline\license133960000596611819 0
 81C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\uuid\dist\regex.js133960000602073361 0
@@ -6091,7 +6089,7 @@
 116C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\esm5\internal\operators\timeInterval.js.map133960000640295207 0
 111C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\esm5\internal\operators\timeoutWith.js133960000622304126 0
 115C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\esm5\internal\operators\timeoutWith.js.map133960000640612476 0
-74C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.de29c812.js133959491416864252 0
+74C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.de29c812.js133960306215260218 0
 94C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\is-fullwidth-code-point\license133959517097889641 0
 109C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\esm5\internal\operators\timestamp.js133960000622438434 0
 113C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\esm5\internal\operators\timestamp.js.map133960000640842035 0
@@ -6209,7 +6207,6 @@
 78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\fp\__.js133960000590979804 0
 105C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\esm5\internal\ajax\errors.js.map133960000627958766 0
 114C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\cjs\internal\util\reportUnhandledError.js133960000619375866 0
-95C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\actions.cy.js133960018411184472 0
 100C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\esm5\internal\ajax\types.js133960000622542866 0
 102C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\caniuse-lite\data\features\svg-html5.js133959489632664691 0
 88C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\dayjs\esm\locale\tl-ph.js133960000615639535 0
@@ -6612,7 +6609,7 @@
 95C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\cjs\internal\config.js133960000611545415 0
 90C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\glob\dist\esm\glob.d.ts.map133959549110427963 0
 107C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\esm\internal\operators\skip.js.map133960000636093663 0
-78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\aboutImage.02334384.png133959493124824580 0
+78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\aboutImage.02334384.png133960301226014758 0
 107C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\esm\internal\operators\skipLast.js133960000620670582 0
 83C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\esquery\package.json133959414427924372 0
 94C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@swc\helpers\_\_sliced_to_array133959489622320710 1
@@ -7111,7 +7108,6 @@
 109C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\cjs\internal\operators\single.js.map133960000636017060 0
 107C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\resolve\test\shadowed_core\node_modules\util133959517104274381 1
 103C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\cjs\internal\operators\skip.js133960000620607427 0
-104C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\network_requests.cy.js133960018411287880 0
 108C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\cjs\internal\operators\skipWhile.js133960000620725972 0
 99C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\fp\reverse.d.ts133960000621872775 0
 112C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\rxjs\dist\cjs\internal\operators\skipWhile.js.map133960000636255167 0
@@ -7750,7 +7746,6 @@
 90C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\parse-node-version\index.js133959520216781751 0
 89C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\parse-node-version\LICENSE133959520217577150 0
 90C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\http-signature\lib\utils.js133960000600225625 0
-96C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\aliasing.cy.js133960018411269899 0
 94C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\parse-node-version\package.json133959520216225759 0
 86C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\parse-filepath\index.js133959517100318734 0
 90C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\parse-filepath\package.json133959517097913357 0
@@ -7810,7 +7805,7 @@
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\ordered-binary\LICENSE133959489588048068 0
 87C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\ordered-binary\README.md133959489598818832 0
 94C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\ordered-binary\rollup.config.js133959489595688984 0
-65C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\index.html133959493128685388 0
+65C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\index.html133960300178866337 0
 91C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\ordered-binary\tests\test.js133959489596448874 0
 131C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\ordered-binary\.nyc_output\5b6bd808-0399-4ee6-9395-344688761dfa.json133959489597002304 0
 94C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\caniuse-lite\data\regions\LC.js133959489627098171 0
@@ -8464,7 +8459,7 @@
 103C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lru-cache\dist\commonjs\index.min.js.map133959549111616823 0
 83C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\execa\lib\command.js133960000598379533 0
 99C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lru-cache\dist\commonjs\package.json133959549108135402 0
-78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\aboutImage.09237e89.png133959491417226881 0
+78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\aboutImage.09237e89.png133960306124373991 0
 76C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\loupe\LICENSE133959549102727944 0
 81C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\js-yaml\lib\schema133959414427962506 1
 77C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\loupe\loupe.js133959549108172609 0
@@ -8532,7 +8527,7 @@
 109C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\common-tags\lib\replaceSubstitutionTransformer133960000609638221 1
 87C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\loupe\lib\types.d.ts.map133959549112662120 0
 84C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\log-update\index.d.ts133960000596592427 0
-74C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.78d70452.js133959493128701583 0
+74C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.78d70452.js133960301226029639 0
 95C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@humanfs\node\dist\node-fsx.d.ts133959414424056448 0
 82C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\log-update\index.js133960000592772275 0
 86C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\log-update\node_modules133960000586305131 1
@@ -8561,7 +8556,6 @@
 96C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash._reinterpolate\LICENSE.txt133959520220217399 0
 91C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\deep-is\test\neg-vs-pos-0.js133959414418420402 0
 97C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash._reinterpolate\package.json133959520219772919 0
-98C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\navigation.cy.js133960018411287880 0
 94C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash._reinterpolate\README.md133959520219972530 0
 94C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash.templatesettings\LICENSE133959520219998255 0
 99C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash.templatesettings\package.json133959520219420044 0
@@ -8665,7 +8659,7 @@
 77C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\flow.js133960000617788432 0
 78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\forIn.js133960000617940984 0
 79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\forOwn.js133960000618073640 0
-73C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\forms.cy.js133960124880090895 0
+73C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\forms.cy.js133960276617288914 0
 83C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash133960000618138928 1
 72C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\fp133960000626169104 1
 80C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\eslint\lib\cli.js133959414430670708 0
@@ -8731,7 +8725,6 @@
 83C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@swc\core\index.d.ts133959489596826634 0
 92C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\eslint\lib\unsupported-api.js133959414442407986 0
 79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\lodash.js133960000620567615 0
-97C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\utilities.cy.js133960018411287880 0
 83C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\lodash.min.js133960000620620080 0
 80C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\mapKeys.js133960000620763719 0
 88C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\_mapCacheDelete.js133960000612831268 0
@@ -9358,7 +9351,7 @@
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\asn1\lib\ber\errors.js133960000592669023 0
 82C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\fp\random.js133960000622597299 0
 86C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\fp\rangeRight.js133960000622679871 0
-79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.e0f88a9b.css.map133959493128961769 0
+79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.e0f88a9b.css.map133960301226239389 0
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\fp\rangeStep.js133960000622706989 0
 82C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\fp\reject.js133960000622838284 0
 84C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\lodash\fp\takeLast.js133960000624230545 0
@@ -9819,7 +9812,7 @@
 91C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\is-unicode-supported\license133959549100813120 0
 96C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\is-unicode-supported\package.json133959549103785038 0
 87C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\is-unc-path\package.json133959517098461250 0
-61C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e133960021558053874 1
+61C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e133960206566017491 1
 93C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@swc\helpers\cjs\_identity.cjs133959489605146842 0
 81C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\clone\package.json133959489585603705 0
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\is-typedarray\index.js133960000598044129 0
@@ -10122,7 +10115,6 @@
 84C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\.bin\sshpk-verify.ps1133960000656734031 0
 89C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\global-prefix\package.json133959517099477275 0
 105C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\global-prefix\node_modules\which\README.md133959517098020527 0
-93C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\files.cy.js133960018411287880 0
 104C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\global-prefix\node_modules\.bin\which.ps1133959517106261685 0
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\global-modules\LICENSE133959517100342086 0
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\global-dirs\index.d.ts133960000596158558 0
@@ -10169,7 +10161,6 @@
 81C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\fs-extra\lib\empty133960000601626824 1
 88C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\core\src\utils.js133959489617657988 0
 110C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\glob\node_modules\minimatch\dist\esm\ast.js.map133959549111054742 0
-96C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\querying.cy.js133960018411287880 0
 109C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\glob\node_modules\minimatch\dist\esm\escape.js133959549108009946 0
 110C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\glob\node_modules\minimatch\dist\esm\index.d.ts133959549113893947 0
 108C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\glob\node_modules\minimatch\dist\esm\index.js133959549108621670 0
@@ -10496,7 +10487,7 @@
 81C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\dayjs\locale\da.js133960000606542571 0
 82C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\eslint\package.json133959414442696005 0
 83C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\extend\.editorconfig133959517100224825 0
-75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.63a5aa7a.css133959493128685388 0
+75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.63a5aa7a.css133960301226014758 0
 80C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\extend\.jscs.json133959517101202624 0
 82C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\extend\CHANGELOG.md133959517101798720 0
 82C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\extend\package.json133959517099480445 0
@@ -10599,7 +10590,6 @@
 105C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\caniuse-lite\data\features\transforms3d.js133959489633415270 0
 100C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\eslint\lib\rules\consistent-return.js133959414431720992 0
 98C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\eslint\lib\rules\consistent-this.js133959414431809124 0
-90C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\1-getting-started\todo.cy.js133960018411231925 0
 100C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\eslint\lib\rules\constructor-super.js133959414431839304 0
 108C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\package-manager\src\installPackage.js133959489601022913 0
 100C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\eslint\lib\rules\default-case-last.js133959414432125805 0
@@ -10853,7 +10843,7 @@
 121C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@swc\helpers\_\_class_apply_descriptor_update\package.json133959489619457911 0
 88C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\escalade\sync\index.d.mts133959489597362801 0
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\escalade\sync\index.js133959489592390681 0
-75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.7916b925.css133959491416745704 0
+75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.7916b925.css133960306117948442 0
 86C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\escalade\sync\index.mjs133959489596591747 0
 86C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\escalade\dist\index.mjs133959489596052597 0
 113C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\core\test\fixtures\config-plugin-not-found133959489597007390 1
@@ -10890,7 +10880,7 @@
 82C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\es-errors\README.md133960000600804278 0
 79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\es-errors\ref.js133960000594355110 0
 77C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\es-errors\test133960000592379930 1
-78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.78d70452.js.map133959493128961769 0
+78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.78d70452.js.map133960301226239389 0
 86C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\es-errors\tsconfig.json133960000599815307 0
 100C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\common-tags\es\splitStringTransformer133960000609912775 1
 86C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\es-errors\test\index.js133960000592502728 0
@@ -10972,7 +10962,7 @@
 75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\ecc-jsbn\lib133960000600205582 1
 79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\ecc-jsbn\LICENSE133960000592401922 0
 84C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\ecc-jsbn\package.json133960000595555727 0
-75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.11a25561.css133959491416734050 0
+75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.11a25561.css133960306124528507 0
 81C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\ecc-jsbn\README.md133960000592752225 0
 79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\ecc-jsbn\test.js133960000596945720 0
 81C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\ecc-jsbn\lib\ec.js133960000599692127 0
@@ -11317,7 +11307,7 @@
 96C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\dayjs\esm\plugin\toArray\index.js133960000612348313 0
 103C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\dayjs\esm\plugin\relativeTime\index.d.ts133960000617238133 0
 72C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\support\e2e.js133960016263001810 0
-79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.7916b925.css.map133959491417141454 0
+79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.7916b925.css.map133960306121108335 0
 101C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\dayjs\esm\plugin\relativeTime\index.js133960000612262319 0
 104C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\dayjs\esm\plugin\quarterOfYear\index.d.ts133960000617207270 0
 109C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\dayjs\esm\plugin\preParsePostFormat\index.d.ts133960000617179469 0
@@ -11589,7 +11579,7 @@
 108C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@swc\helpers\esm\_interop_require_wildcard.js133959489613623293 0
 94C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cliui\build\lib\string-utils.js133959517098060725 0
 102C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\isArrayBuffer.d.ts133960000617437127 0
-75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.003c3e08.css133959491416745704 0
+75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.003c3e08.css133960306121156346 0
 98C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\isBoolean.d.ts133960000615342683 0
 98C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\isElement.d.ts133960000613928727 0
 96C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\isEqual.d.ts133960000616693360 0
@@ -11915,7 +11905,7 @@
 102C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\fp\startsWith.d.ts133960000619024579 0
 103C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@eslint\config-helpers\dist\esm\index.js133959414424500874 0
 102C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\fp\stubObject.d.ts133960000619709737 0
-79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.56237ad9.css.map133959491417118856 0
+79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.56237ad9.css.map133960306124283564 0
 102C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\fp\stubString.d.ts133960000619779876 0
 100C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\fp\stubTrue.d.ts133960000621069473 0
 100C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\cypress\types\lodash\fp\subtract.d.ts133960000620461163 0
@@ -12911,7 +12901,7 @@
 103C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\call-bind-apply-helpers\actualApply.d.ts133960000601084190 0
 85C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\logger\LICENSE133959489587630397 0
 101C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\call-bind-apply-helpers\actualApply.js133960000591561362 0
-74C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.2637f0f9.js133959493128701583 0
+74C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.2637f0f9.js133960301226029639 0
 101C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\call-bind-apply-helpers\applyBind.d.ts133960000601347747 0
 99C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\call-bind-apply-helpers\CHANGELOG.md133960000600388741 0
 103C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\call-bind-apply-helpers\functionApply.js133960000592732859 0
@@ -13276,7 +13266,6 @@
 98C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@types\node\globals.typedarray.d.ts133960000605012220 0
 84C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@types\node\http.d.ts133960000605262879 0
 87C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@types\node\package.json133960000606483576 0
-106C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\spies_stubs_clocks.cy.js133960018411287880 0
 84C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@types\node\path.d.ts133960000606522525 0
 87C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@types\node\process.d.ts133960000606932305 0
 84C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@types\node\repl.d.ts133960000607279807 0
@@ -13565,7 +13554,7 @@
 99C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@swc\helpers\cjs\_inherits_loose.cjs133959489605188053 0
 113C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133959489602071200 0
 111C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@swc\helpers\cjs\_initializer_warning_helper.cjs133959489605353818 0
-75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.e0f88a9b.css133959493128685388 0
+75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.e0f88a9b.css133960301226014758 0
 95C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@swc\helpers\cjs\_instanceof.cjs133959489605436870 0
 109C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@swc\helpers\cjs\_interop_require_wildcard.cjs133959489605551915 0
 112C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@swc\helpers\cjs\_is_native_reflect_construct.cjs133959489605682348 0
@@ -13701,7 +13690,7 @@
 96C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\utils\test\config.test.js133959489599335789 0
 100C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\utils\test\DefaultMap.test.js133959489600592848 0
 100C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\utils\test\objectHash.test.js133959489605617595 0
-79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.11a25561.css.map133959491417118856 0
+79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.11a25561.css.map133960306126148311 0
 97C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\utils\test\urlJoin.test.js133959489607525604 0
 94C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\utils\test\input\config133959489611149834 1
 107C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\utils\test\input\sourcemap\inline.js133959489605305993 0
@@ -13749,7 +13738,7 @@
 108C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\transformer-raw\lib\RawTransformer.js133959489590968520 0
 95C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\transformer-posthtml\lib133959489593818331 1
 104C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\transformer-posthtml\package.json133959489596168773 0
-76C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\homePage.1a941f8e.png133959491417270945 0
+76C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\homePage.1a941f8e.png133960306126214147 0
 95C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\transformer-posthtml\src133959489595064282 1
 118C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\transformer-posthtml\src\PostHTMLTransformer.js133959489595414825 0
 94C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@parcel\transformer-postcss\lib133959489597054114 1
@@ -14299,7 +14288,7 @@
 113C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@eslint\eslintrc\node_modules\globals\globals.json133959414420076504 0
 96C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@eslint\eslintrc\lib\config-array133959414430481088 1
 107C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@eslint\eslintrc\lib\config-array-factory.js133959414427942452 0
-75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.07619cc6.css133959493128685388 0
+75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.07619cc6.css133960301226014758 0
 102C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@eslint\eslintrc\lib\index-universal.js133959414430211559 0
 90C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@eslint\eslintrc\lib\shared133959414430622158 1
 104C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\@eslint\eslintrc\lib\shared\config-ops.js133959414428346791 0
@@ -14380,28 +14369,19 @@
 81C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\.bin\tree-kill.ps1133960000656734031 0
 78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\.bin\_mocha.cmd133959549115271227 0
 78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\node_modules\.bin\_mocha.ps1133959549115281319 0
-76C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\homePage.fdb8bdbb.png133959493128175617 0
-79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.003c3e08.css.map133959491417118856 0
-75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.0121f551.css133959493128685388 0
-79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.0121f551.css.map133959493128939594 0
-79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.07619cc6.css.map133959493128939594 0
-74C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.0ff3cd3b.js133959491416818529 0
-78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.0ff3cd3b.js.map133959491417118856 0
-78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.2637f0f9.js.map133959493128961769 0
-75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.56237ad9.css133959491416745704 0
-79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.63a5aa7a.css.map133959493128939594 0
-79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.99699bbc.css.map133959493128939594 0
-78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.de29c812.js.map133959491417141454 0
+76C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\homePage.fdb8bdbb.png133960301226014758 0
+79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.003c3e08.css.map133960306120612265 0
+75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.0121f551.css133960301226014758 0
+79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.0121f551.css.map133960301226203446 0
+79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.07619cc6.css.map133960301226203446 0
+74C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.0ff3cd3b.js133960306124538481 0
+78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.0ff3cd3b.js.map133960306126214147 0
+78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.2637f0f9.js.map133960301226239389 0
+75C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.56237ad9.css133960306119794098 0
+79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.63a5aa7a.css.map133960301226239389 0
+74C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.7e5de1bb.js133960304552048126 0
+79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.99699bbc.css.map133960301226183067 0
+78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\dist\starter.de29c812.js.map133960306215990849 0
 67C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\downloads133960017933691772 1
-79C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\1-getting-started133960018411184472 1
-78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\navigation.cy.js133960104589765408 0
-98C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\assertions.cy.js133960018411287880 0
-95C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\cookies.cy.js133960018411287880 0
-99C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\cypress_api.cy.js133960018411269899 0
-96C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\location.cy.js133960018411287880 0
-92C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\misc.cy.js133960018411287880 0
-95C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\storage.cy.js133960018411287880 0
-97C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\traversal.cy.js133960018411246444 0
-96C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\viewport.cy.js133960018411330256 0
-95C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\waiting.cy.js133960018411269899 0
-94C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\2-advanced-examples\window.cy.js133960018411298641 0
+69C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\screenshots133960292096591010 1
+78C:\Users\hp\Desktop\Study Night\nd0011-c4-starter\cypress\e2e\navigation.cy.js133960276684151587 0
