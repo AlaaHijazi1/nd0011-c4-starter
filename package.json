@@ -1,0 +1,40 @@
+{
+    "name": "study-night",
+    "version": "1.0.0",
+    "description": "In this Project Students will optimize and test a front-end web application called Study Night, a flashcard tool. Using the skills gained throughout this course, they will create tests to ensure product quality, install and configure necessary project dependencies, and optimize and automate the application tasks.",
+    "scripts": {
+        "start": "parcel starter/index.html",
+        "build": "parcel build starter/index.html"
+    },
+    "test": "mocha",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/udacity/nd0011-c4-starter.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "type": "module",
+    "bugs": {
+        "url": "https://github.com/udacity/nd0011-c4-starter/issues"
+    },
+    "homepage": "https://github.com/udacity/nd0011-c4-starter#readme",
+    "prettier": {
+        "semi": true,
+        "tabWidth": 4
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.30.1",
+        "chai": "^5.2.0",
+        "cypress": "^14.5.1",
+        "eslint": "^9.30.1",
+        "globals": "^16.3.0",
+        "gulp": "^5.0.1",
+        "gulp-shell": "^0.8.0",
+        "mocha": "^11.7.1",
+        "parcel": "^2.15.4"
+    },
+    "dependencies": {
+        "gulp-cli": "^3.1.0"
+    }
+}
