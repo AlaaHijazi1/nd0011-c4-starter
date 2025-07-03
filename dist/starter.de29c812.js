@@ -160,11 +160,11 @@
       });
     }
   }
-})({"7dZU5":[function(require,module,exports,__globalThis) {
+})({"9mUY7":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
-var HMR_SERVER_PORT = 63574;
+var HMR_SERVER_PORT = 1234;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
@@ -986,7 +986,7 @@ const createElement = (elementType, text)=>{
 const createImage = (url, alt)=>{
     var img = document.createElement("img");
     img.src = url;
-    img.alt;
+    img.alt = alt;
     return img;
 };
 // Create a header element with specified text and data attribute
@@ -1123,6 +1123,7 @@ var _aboutImagePng = require("../images/aboutImage.png");
 var _aboutImagePngDefault = parcelHelpers.interopDefault(_aboutImagePng);
 // This function creates a header element
 var _utilityRenderFunctionsJs = require("./utilityRenderFunctions.js");
+console.log((0, _aboutImagePngDefault.default));
 const renderAboutPage = ()=>{
     // Clear the main content area
     const main = document.querySelector("main");
@@ -1150,7 +1151,7 @@ const renderAboutPage = ()=>{
     main.append(containerOuter);
 };
 
-},{"./utilityRenderFunctions.js":"7Z6eA","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","../images/aboutImage.png":"2Mk5X"}],"2Mk5X":[function() {},{}],"aAmIa":[function(require,module,exports,__globalThis) {
+},{"../images/aboutImage.png":"2Mk5X","./utilityRenderFunctions.js":"7Z6eA","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"2Mk5X":[function() {},{}],"aAmIa":[function(require,module,exports,__globalThis) {
 //DO NOT CHANGE ANYTHING IN THIS FILE//
 // This file is responsible for loading the home page
 //Imports image for homepage
@@ -1179,6 +1180,6 @@ const renderHomePage = ()=>{
     main.append(homeContainer);
 };
 
-},{"../images/homePage.png":"9QOwg","./utilityRenderFunctions.js":"7Z6eA","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"9QOwg":[function() {},{}]},["7dZU5","dkgmw"], "dkgmw", "parcelRequireccf0", {})
+},{"../images/homePage.png":"9QOwg","./utilityRenderFunctions.js":"7Z6eA","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"9QOwg":[function() {},{}]},["9mUY7","dkgmw"], "dkgmw", "parcelRequireccf0", {})
 
 //# sourceMappingURL=starter.de29c812.js.map

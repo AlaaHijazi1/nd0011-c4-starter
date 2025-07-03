@@ -1,6 +1,6 @@
 describe("Navigation Test", () => {
     beforeEach(() => {
-        cy.visit(" http://localhost:63574");
+        cy.visit("http://localhost:1234");
     });
 
     it("should open the Home page", () => {

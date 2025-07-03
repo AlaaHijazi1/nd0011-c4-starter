@@ -13,7 +13,7 @@ export default defineConfig([
         languageOptions: { globals: { ...globals.browser, ...globals.node } },
     },
     {
-        files:  ["test/**/*.js", "cypress/**/*.js"],
+        files: ["test/**/*.js", "cypress/**/*.js"],
         plugins: ["cypress"],
         languageOptions: {
             globals: {

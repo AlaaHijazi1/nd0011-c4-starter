@@ -12,6 +12,7 @@ import {
   createImage,
 } from "./utilityRenderFunctions.js";
 
+console.log(aboutPageImage)
 export const renderAboutPage = () => {
   // Clear the main content area
   const main = document.querySelector("main");
