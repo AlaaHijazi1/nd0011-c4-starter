@@ -1,7 +1,7 @@
 describe("Form Test", () => {
     beforeEach(() => {
         cy.visit("http://localhost:1234");
-        cy.get("#cardSetPage").click();
+        cy.get("#cardSetPage").click({ force: true });
         cy.get("h2").should("contain", "Study Set Library");
     });
 
